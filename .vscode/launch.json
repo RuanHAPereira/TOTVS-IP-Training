@@ -1,0 +1,297 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"name": "Depuração do idioma TOTVS",
+			"program": "${command:AskForProgramName}",
+			"cwb": "${workspaceFolder}",
+			"smartclientBin": "C:\\TOTVS12\\Protheus\\Protheus\\bin\\smartclient\\smartclient.exe",
+			"isMultiSession": true,
+			"enableTableSync": true
+		}
+	],
+	"lastPrograms": [
+		{
+			"label": "U_HelloWorld"
+		},
+		{
+			"args": [
+				null,
+				"World"
+			],
+			"label": "U_Hello"
+		},
+		{
+			"label": "U_Declaracao"
+		},
+		{
+			"label": "Escopo"
+		},
+		{
+			"label": "Tipos"
+		},
+		{
+			"label": "U_Oporadores"
+		},
+		{
+			"label": "Exemplo02"
+		},
+		{
+			"label": "U_ExemploDoCase"
+		},
+		{
+			"label": "U_DigitaNota"
+		},
+		{
+			"label": "U_ex1"
+		},
+		{
+			"label": "U_EX01"
+		},
+		{
+			"label": "U_Tipos"
+		},
+		{
+			"label": "U_ex2"
+		},
+		{
+			"label": "U_E1"
+		},
+		{
+			"label": "U_LerNumeros"
+		},
+		{
+			"label": "U_DoisValores"
+		},
+		{
+			"label": "U_Operadores"
+		},
+		{
+			"label": "U_ExemploForNext"
+		},
+		{
+			"label": "5"
+		},
+		{
+			"label": "U_E2"
+		},
+		{
+			"label": "U_E3"
+		},
+		{
+			"label": "U_E5"
+		},
+		{
+			"label": "U_E6"
+		},
+		{
+			"label": "U_E7"
+		},
+		{
+			"label": "U_E8"
+		},
+		{
+			"label": "U_E9"
+		},
+		{
+			"label": "U_E10"
+		},
+		{
+			"label": "U_E4"
+		},
+		{
+			"label": "U_Ex4"
+		},
+		{
+			"label": "U_BusProdGen"
+		},
+		{
+			"label": "U_ShowCliGen"
+		},
+		{
+			"label": "U_lista3E1"
+		},
+		{
+			"label": "U_ShowCliSQL"
+		},
+		{
+			"label": "U_lista3e4"
+		},
+		{
+			"label": "U_lista3e14"
+		},
+		{
+			"label": "U_l3exerc14"
+		},
+		{
+			"label": "U_VetorExerc14"
+		},
+		{
+			"label": "U_DiaSemana"
+		},
+		{
+			"label": "U_ConsultaSC7"
+		},
+		{
+			"label": "U_ConsultaPedidos"
+		},
+		{
+			"label": "SIGACFG"
+		},
+		{
+			"label": "SIGACOM"
+		},
+		{
+			"label": "U_IntVisual"
+		},
+		{
+			"label": "U_VisualDoisPositivos"
+		},
+		{
+			"label": "U_CotacaoDolar"
+		},
+		{
+			"label": "U_Lista4Ex02"
+		},
+		{
+			"label": "U_L4Ex03"
+		},
+		{
+			"label": "U_L4Ex04"
+		},
+		{
+			"label": "U_L04Ex04"
+		},
+		{
+			"label": "U_L04Ex05"
+		},
+		{
+			"label": "U_L04Ex06"
+		},
+		{
+			"label": "U_L04Ex08"
+		},
+		{
+			"label": "U_L04Ex09"
+		},
+		{
+			"label": "U_L04Ex10"
+		},
+		{
+			"label": "U_L04Ex07"
+		},
+		{
+			"label": "U_l5e02"
+		},
+		{
+			"label": "U_l5e7"
+		},
+		{
+			"label": "U_l5e07"
+		},
+		{
+			"label": "U_l5e03"
+		},
+		{
+			"label": "U_l5e3"
+		},
+		{
+			"label": "U_l5e5"
+		},
+		{
+			"label": "U_l5e6"
+		},
+		{
+			"label": "U_l5e8"
+		},
+		{
+			"label": "U_l5e9"
+		},
+		{
+			"label": "U_l5e11"
+		},
+		{
+			"label": "U_l5e12"
+		},
+		{
+			"label": "U_l5e13"
+		},
+		{
+			"label": "U_l5e14"
+		},
+		{
+			"label": "U_L5E15"
+		},
+		{
+			"label": "U_l5e17"
+		},
+		{
+			"label": "U_E2_V2"
+		},
+		{
+			"label": "U_E3_V2"
+		},
+		{
+			"label": "U_E4_V2"
+		},
+		{
+			"label": "U_MT010ALT"
+		},
+		{
+			"label": "SIGAFAT"
+		},
+		{
+			"label": "U_PlanEx"
+		},
+		{
+			"label": "U_L12E01"
+		},
+		{
+			"label": "U_L12E02"
+		},
+		{
+			"label": "U_L12Ex03"
+		},
+		{
+			"label": "U_L12Ex02"
+		},
+		{
+			"label": "U_CriaPasta"
+		},
+		{
+			"label": "U_Escreve"
+		},
+		{
+			"label": "U_LeTxt"
+		},
+		{
+			"label": "U_CrFolder"
+		},
+		{
+			"label": "U_CopyFold"
+		},
+		{
+			"label": "U_DelPasta"
+		},
+		{
+			"label": "U_IniForm"
+		},
+		{
+			"label": "U_FormDev"
+		},
+		{
+			"label": "U_RelProd"
+		},
+		{
+			"label": "U_Teste"
+		},
+		{
+			"args": [],
+			"label": "u_LayGrid"
+		}
+	],
+	"lastProgramExecuted": "<cancel>",
+	"lastProgramArguments": []
+}
